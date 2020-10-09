@@ -91,7 +91,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'nlconvdb',
-        'USER': 'postgres1',
+        'USER': 'postgres',
         'PASSWORD': 'Berke1919*-',
         'HOST': 'localhost',
         'PORT': '',
